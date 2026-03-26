@@ -10,7 +10,7 @@ public class DBConnection {
     // Database credentials
     private static final String URL = "jdbc:mysql://localhost:3306/sms";
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "smit@1407"; // Update with your MySQL password
+    private static final String PASSWORD = ""; // Update with your MySQL password
     private static final String DRIVER = "com.mysql.cj.jdbc.Driver";
     
     // Get database connection
